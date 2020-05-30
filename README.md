@@ -7,7 +7,7 @@ Initial Tutorials:
 
 What is computer vision?  
 [Introduction to Computer Vision](https://algorithmia.com/blog/introduction-to-computer-vision)  
-[Gentle Introduction](https://machinelearningmastery.com/what-is-computer-vision/)
+[Gentle Introduction](https://machinelearningmastery.com/what-is-computer-vision/)  
 [Introductory Guide](https://tryolabs.com/resources/introductory-guide-computer-vision/)  
 
 

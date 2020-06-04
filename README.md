@@ -15,4 +15,8 @@ Packages and libraries:
 [OpenCV](https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/)
 
 Books:  
-[Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) -- code is in Matlab
+[Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) -- code is in Matlab  
+
+Kaggle competitions:  
+[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)  
+[Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification/notebooks)  

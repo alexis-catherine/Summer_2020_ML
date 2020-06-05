@@ -1,4 +1,6 @@
 # Summer_2020_ML
+Our Kaggle Competition:  
+[Milkweed Bugs](https://www.kaggle.com/c/milkweedbugs/)
 
 Initial Tutorials:  
 [Learn Python](https://www.kaggle.com/learn/python)  
